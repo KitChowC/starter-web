@@ -1,0 +1,4 @@
+The same company that called the open source movement a cancer, now embraces open source and its development community. For example, Visual Studio Code is based upon an open source technology called Electron. Microsoft has been involved with giving back to open source projects like Git, Electron, and many others -- not just using it as a foundation for its products.
+
+While questions about GitHub's long term success still remain, Microsoft seems committed to GitHub as a platform and the development community around it.
+
